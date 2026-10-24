@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI 晨报</title>
+    <link>https://cdn.jsdelivr.net/gh/tofucn/ai-morning-podcast@main/feed.xml</link>
+    <atom:link href="https://cdn.jsdelivr.net/gh/tofucn/ai-morning-podcast@main/feed.xml" rel="self" type="application/rss+xml" />
+    <description>每天早上 9 点，子墨和安然聊过去 24 小时最重要的 AI 新闻：大模型、芯片算力、头部公司动态和政策，一期 5 分钟左右。</description>
+    <language>zh-CN</language>
+    <itunes:author>AI晨报</itunes:author>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://muse.ai/files/1407524312437545/1437017728623760/ivsrkz4t8h29s9d1wqje859i/ai-morning-cover.jpg" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>AI 晨报 · 10月24日：AWS 容量售罄到 2027 年底，Kimi K3.1 Pro 逼近前沿模型</title>
+      <description><![CDATA[导读：10月24日 AI 晨报：Kimi K3.1 Pro 发布、权重 11 月 4 日公开；AWS 容量售罄至 2027 年底；Anthropic 招股书细节流出；英国 6 亿英镑 AI 安全资金；国务院 AI 就业意见；OpenAI 决策 API 全开放。
+本期看点：
+- 月之暗面发布 Kimi K3.1 Pro：1M 词元上下文；Terminal-Bench 4.0 得分 65.70%，高于 GPT-6 Astra 的 58.20%、略低于 Claude Opus 5.5 的 66.40%；内部幻觉测试中单句幻觉率从 K3 的 23.40% 降至 8.30%；API 定价输入 2 美元/百万词元、输出 10 美元/百万词元，比 K3 便宜约三分之一；完整权重承诺 11 月 4 日前公开
+- 亚马逊 CEO 贾西称 AWS 云计算容量售罄至 2027 年底，大量订单排至 2028 年；算力进入卖方市场，缺的不是钱是机器
+- Anthropic 上市招股书草稿（截至录制未确认落地）：2026 上半年收入 163 亿美元、净亏损 807 亿美元（其中约 720 亿美元为可转债等非现金记账调整）；Q3 收入 168 亿美元、调整后盈利；上半年算力与基建支出近 90 亿美元，长期算力承诺超 5180 亿美元
+- 英国政府宣布约 6 亿英镑 AI 安全资金：1 亿英镑建 AI 生物安全实验室、6500 万英镑研发病原体对策，OpenAI 与 Anthropic 提供最高 2 亿英镑模型额度，Google DeepMind 与 Basecamp Research 提供技术支持
+- 国务院办公厅印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》：部署 6 个方面，强化 AI 就业创造效应、帮中小微企业稳岗扩岗、创造 AI 领域创业新模式、加快开发 AI 新职业
+- OpenAI Decisions API 向所有客户开放并新增语音与视觉输入；Uber 在 1000 人试点后将全公司约 3 万名员工迁移至 ChatGPT Work]]></description>
+      <enclosure url="https://muse.ai/podcasts/media/1407524312437545/b03d9866-6f0a-4488-8d7f-504110384c73/ep-8cc61ddb-cd3b-4ee0-a23a-47a3234323aa.mp3" length="2691301" type="audio/mpeg" />
+      <guid isPermaLink="true">https://muse.ai/podcasts/media/1407524312437545/b03d9866-6f0a-4488-8d7f-504110384c73/ep-8cc61ddb-cd3b-4ee0-a23a-47a3234323aa.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 09:00:00 +0800</pubDate>
+      <itunes:duration>336</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>AI 晨报 · 10月23日：Anthropic 今日或递交上市招股书，OpenAI 三百亿美元融资进入尾声</title>
+      <description><![CDATA[导读：10月23日 AI 晨报：Anthropic 招股书最早今日公开递交，OpenAI 三百亿美元融资估值降至一点二五万亿美元；智能体基金会新增四个开源项目；英伟达发布 AI 工厂运维平台；三巨头游说支出创纪录。
+本期看点：
+- OpenAI 三百亿美元融资谈判进入尾声，投前估值定在一点二五万亿美元（此前讨论的一点四万亿美元下调了一千五百亿）；Coatue 与阿联酋投资方领投，目标下周末前签约；上市预计二零二七年
+- Anthropic 招股书最早 10 月 23 日公开递交，路演安排在十一月九号那周，十一月中旬或上市；外界估计估值一点五万亿到两万亿美元；草稿显示 2026 上半年收入一百六十三亿美元、净亏损超八百亿（主要为记账开支），三季度收入一百六十八亿美元、高于二季度的一百一十五亿美元
+- 智能体 AI 基金会新增四个开源项目：Anthropic 捐技能规范、OpenAI 捐跨模型接口规范、Hugging Face 捐训练环境、阿里捐安全沙箱；一年内项目从三个增至十个，智能体竞争从拼产品升级到拼标准
+- 英伟达发布 AI 工厂运维平台 Minerva：每小时分析数十亿个数据点，构建动态知识图谱预测故障；IREN 已在用，特斯拉、IBM、Jio、Lambda、Bitdeer 等计划部署
+- 沙特 Humain 扩大与英伟达合作，规划八十四兆瓦 AI 算力、约两万七千块显卡，四季度先部署六千块、明年中再上两万一千块下一代架构（项目以最终协议为准）
+- OpenAI、Anthropic、英伟达三季度游说开支均创自家纪录：英伟达两百二十万、Anthropic 两百一十万、OpenAI 一百五十万美元；本届国会已提出九十九项 AI 相关法案
+- 国内彩蛋：中国首部拿到院线公映许可的 AI 电影《三星堆：未来往事》10 月 23 日全国上映，团队历时两年、累计生成一百二十余万张底图]]></description>
+      <enclosure url="https://muse.ai/podcasts/media/1407524312437545/b03d9866-6f0a-4488-8d7f-504110384c73/ep-77556bd2-1877-4f96-af0c-73a3755c0824.mp3" length="2436709" type="audio/mpeg" />
+      <guid isPermaLink="true">https://muse.ai/podcasts/media/1407524312437545/b03d9866-6f0a-4488-8d7f-504110384c73/ep-77556bd2-1877-4f96-af0c-73a3755c0824.mp3</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 +0800</pubDate>
+      <itunes:duration>304</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>AI 晨报 · 10月22日：OpenAI 模型登陆谷歌云，字节阿里腾讯豪掷三百五十亿美元抢卡</title>
+      <description><![CDATA[导读：10月22日 AI 晨报：OpenAI 旗舰模型登陆谷歌云；Anthropic 发布主动型智能体 Claude Duet；英伟达柏林大会撒预付款锁产能；字节阿里腾讯订购超 350 亿美元显卡；Tenstorrent 完成 15 亿美元融资。
+本期看点：
+- OpenAI 与谷歌云达成合作，旗舰模型与 Codex 未来几周登陆谷歌云 Model Garden，费用可抵扣谷歌云消费承诺；云厂商正在成为大模型的“经销商”
+- Anthropic 发布主动型智能体 Claude Duet（研究预览版，仅美国 Pro/Max 用户 waitlist）：每日简报、排会、财务预测、搭建网页应用，接入 6000+ 应用、可通过电子钱包下单，敏感操作需用户确认
+- 英伟达柏林 GTC：与六家制造伙伴签预付款协议锁产能，日本揖斐电数十亿美元、京元电子 11 亿美元在美国建测试厂；三年内基板产能扩至 2.5 倍、光引擎产能一年多内扩大 15 倍；发布 Vera Rubin DSX Pod 集装箱式数据中心，安装从 6 个月压到 14 天
+- 路透：字节跳动、阿里巴巴、腾讯订购超 300 万张英伟达 RTX PRO 5500 工作站显卡，总价值超 350 亿美元（单价约 11400 美元）；中国客户实际需求超 600 万张，英伟达 2027 年全球产能上限 300 万张
+- Tenstorrent 完成 15 亿美元融资，估值 62 亿美元（2024 年末 26 亿美元），CEO 吉姆·凯勒；资金用于开放权重模型与视频生成定制推理芯片]]></description>
+      <enclosure url="https://muse.ai/podcasts/media/1407524312437545/b03d9866-6f0a-4488-8d7f-504110384c73/ep-268ea1c7-8b00-4a1d-af9b-4a87d2b1461e.mp3" length="3097957" type="audio/mpeg" />
+      <guid isPermaLink="true">https://muse.ai/podcasts/media/1407524312437545/b03d9866-6f0a-4488-8d7f-504110384c73/ep-268ea1c7-8b00-4a1d-af9b-4a87d2b1461e.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 +0800</pubDate>
+      <itunes:duration>387</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>AI 晨报 · 10月21日：DeepSeek 开源推理引擎，巨头围攻英伟达</title>
+      <description><![CDATA[导读：十月二十一号 AI 晨报：DeepSeek 开源推理引擎 DeepInfer 并内置华为昇腾支持；谷歌与亚马逊先后发布芯片移植工具，软件层去英伟达化；OpenAI 约三百亿美元融资抢在 Anthropic 十一月 IPO 之前；美国国土安全部 DeepSeek 命令正式发布；中国大模型周调用量连续二十五周超过美国。
+本期看点：
+- DeepSeek 开源自研推理引擎 DeepInfer（Apache 2.0），内置华为昇腾支持
+- 谷歌联合 Meta PyTorch 团队发布 TorchTPU，亚马逊前一日发布 TorchNeuron，软件层去英伟达化
+- 路透：OpenAI 加速约 300 亿美元融资、估值或超 1.4 万亿美元，抢在 Anthropic 最快 11 月中旬 IPO 之前；Anthropic Q3 收入 168 亿美元、增速放缓
+- 美国国土安全部 DeepSeek 相关命令在联邦公报正式发布，中国外交部同日回应反对；英伟达、谷歌、英特尔、Anthropic Q3 游说反对 AI 芯片出口限制
+- OpenRouter 数据：中国大模型周调用量连续 25 周超过美国（79 万亿 vs 17 万亿词元），调用量前五均为中国模型]]></description>
+      <enclosure url="https://muse.ai/podcasts/media/1407524312437545/b03d9866-6f0a-4488-8d7f-504110384c73/ep-9a66670f-2607-4a59-b233-ac8cae9512b9.mp3" length="1678309" type="audio/mpeg" />
+      <guid isPermaLink="true">https://muse.ai/podcasts/media/1407524312437545/b03d9866-6f0a-4488-8d7f-504110384c73/ep-9a66670f-2607-4a59-b233-ac8cae9512b9.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0800</pubDate>
+      <itunes:duration>209</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
